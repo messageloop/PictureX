@@ -1,8 +1,6 @@
-# PictureX - AI Cutout / Background eraser
+# PictureX - AI BG Remover
 
-PictureX is now available for free download in the iOS AppStore. 
-
-PictureX: https://apps.apple.com/cn/app/picturex-ai-cutout/id1560658585
+PictureX is now available for free download in the iOS/Mac AppStore. 
 
 Any suggestions and feedback can be reached to us at picturex@126.com
 
