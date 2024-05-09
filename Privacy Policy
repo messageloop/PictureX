@@ -9,6 +9,9 @@ Unless otherwise defined in this Privacy Policy, terms used in this Privacy Poli
 
 Information Collection and Use 
 
+TrueDepth APIs
+PictureX only calls the TrueDepth APIs to better remove the background when the user is using the front camera. This step is only calculated locally on the iPhone and is not uploaded to the server, so the TrueDepth data is only stored locally on the iPhone.
+
 In order to have a better experience when using our services, we may ask you to provide us with certain personally identifiable information such as username, address, location, pictures, and the personal information we collect will remain on your device and will not be collected by us in any way / [we retain and use as set forth in this Privacy Policy.
 Recording Information
 We would like to inform you that whenever you use our Services, we collect data and information through a phone call (through a third party product) called log data if there is an error in the application. This log data may contain information such as your device's Internet Protocol ("IP") address, device name, operating system version, 
